@@ -1,5 +1,5 @@
 <h2 align="center">
-    Uma Aplicação de Regreção Linear Simple
+    Uma Aplicação de Regressão Linear Simple
 </h2>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 📅 Sobre
 
-Pequeno exercício de regreção linear simple, utilizando-se da base de dados aerogerador.dat.
+Pequeno exercício de regressão linear simple, utilizando-se da base de dados aerogerador.dat.
 Com o objetivo de estudo para a disciplina de Inteligencia Computacional
 
   <p align="center">
