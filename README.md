@@ -15,6 +15,14 @@
 Pequeno exercício de regreção linear simple, utilizando-se da base de dados aerogerador.dat.
 Com o objetivo de estudo para a disciplina de Inteligencia Computacional
 
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/RafaelJNascimento/regerssao_linear_simples/master/img/img1.png" height="200">
+  </p>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/RafaelJNascimento/regerssao_linear_simples/master/img/img2.png" height="200">
+  </p>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
