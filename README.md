@@ -16,11 +16,7 @@ Pequeno exercício de regressão linear simple, utilizando-se da base de dados a
 Com o objetivo de estudo para a disciplina de Inteligencia Computacional
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/RafaelJNascimento/regerssao_linear_simples/master/img/img1.png" height="200">
-  </p>
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/RafaelJNascimento/regerssao_linear_simples/master/img/img2.png" height="200">
+    <img src="https://raw.githubusercontent.com/RafaelJNascimento/regressao_linear_simples/master/img/update.jpg" height="200">
   </p>
 
 ## :memo: Licença
